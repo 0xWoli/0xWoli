@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xWoli
-- 👀 I’m interested in Cryptography and Mathematics 
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Cryptography, Mathematics & Economics 
+- 🌱 I’m always Learning 
 - 💞️ I’m looking to collaborate on Blockchain Technologies 
 - 📫 How to reach me 0xwoli@proton.me
 
